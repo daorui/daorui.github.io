@@ -1,5 +1,5 @@
 baseurl: https://example.com/
-title: console-demo
+title: DAORUI HAN
 theme: hugo-theme-console
 languageCode: en-us
 params:
@@ -12,5 +12,5 @@ params:
     - name: photos
       url: photos/
     - name: publications
-      url: photos/
-  titleCutting: yes
+      url: publications/
+  titleCutting: no
