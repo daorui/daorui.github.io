@@ -1,4 +1,4 @@
-baseurl: https://example.com/
+baseurl: https://daorui-han.netlify.app/
 title: DAORUI HAN
 theme: hugo-theme-console
 languageCode: en-us
@@ -7,10 +7,11 @@ params:
   navlinks:
     - name: about
       url: about/
+    - name: publications
+      url: publications/
     - name: posts
       url: posts/
     - name: photos
       url: photos/
-    - name: publications
-      url: publications/
+   
   titleCutting: no
