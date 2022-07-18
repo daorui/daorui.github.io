@@ -1,8 +1,11 @@
 ---
-date: "2020-01-07"
-image: panaji-india-2.jpg
-title: Panaji, India
+date: "2017-03-07"
+image: images/美国.jpg
+title: Colorado State University, farmland
 type: gallery
 ---
 
-[Panaji](https://en.wikipedia.org/w/index.php?title=Panaji&oldid=949879387), formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa's largest urban agglomeration, ahead of Margão and Vasco da Gama. 
+## Greenhouse gas experiment and soil sampling, the gas collection equipment was in the middle.  
+
+## With Rich.
+

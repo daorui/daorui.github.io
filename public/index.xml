@@ -8,153 +8,60 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Mar 2022 21:13:14 -0500</lastBuildDate><atom:link href="https://daorui-han.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/erl_tibetan/</link>
+      <title>Tibetan C mapping and its driving factors</title>
+      <link>https://daorui-han.netlify.app/articles/erl_tp_2022/</link>
       <pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate>
       
-      <guid>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/erl_tibetan/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://daorui-han.netlify.app/articles/erl_tp_2022/</guid>
+      <description>published in ‘environmental research letters’, 2022.03AbstractThe Qinghai-Tibetan Plateau (TP) accumulated a large amount of organic carbon, while its size and response to environmental factors for the whole area remain uncertain. Here, we synthesized a dataset to date with the largest data volume and broadest geographic coverage over the TP, composing of 7196 observations from multiple field campaigns since the 1980s, and provided a comprehensive assessment of the size and spatial distribution of carbon pools for both plant and soils on the TP using machine learning algorithms.</description>
     </item>
     
     <item>
-      <title>Tibetan C mapping</title>
-      <link>https://daorui-han.netlify.app/articles/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate>
+      <title>Qinghai-Tibetan Plateau sampling</title>
+      <link>https://daorui-han.netlify.app/life/guangzhou/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daorui-han.netlify.app/articles/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://daorui-han.netlify.app/life/guangzhou/</guid>
+      <description>SamplingSampling in Grassland
+Sampling in Grassland
+wash plant root
+Beautifual Scenebeautiful scene01
+beautiful scene02
+rainbow after sampling
+Fundsupported by secondary Qinghai-Tibetan Scientific Expedition and Research Program</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>https://daorui-han.netlify.app/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Qinghai-Tibetan Plateau sampling</title>
+      <link>https://daorui-han.netlify.app/photos/guangzhou/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://daorui-han.netlify.app/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>https://daorui-han.netlify.app/photos/guangzhou/</guid>
+      <description>SamplingSampling in Grassland
+Sampling in Grassland
+wash plant root
+Beautifual Scenebeautiful scene01
+beautiful scene02
+rainbow after sampling
+Fundsupported by secondary Qinghai-Tibetan Scientific Expedition and Research Program</description>
     </item>
     
     <item>
-      <title>Warsaw, Poland</title>
-      <link>https://daorui-han.netlify.app/photos/warsaw-poland/</link>
-      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      <title>SOC change on North China Plain from 1980s to 2010s</title>
+      <link>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</link>
+      <pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate>
       
-      <guid>https://daorui-han.netlify.app/photos/warsaw-poland/</guid>
-      <description>Palace of Culture and Science (Polish: Pałac Kultury i Nauki), is a notable high-rise building in central Warsaw, Poland. With a total height of 237 metres (778 ft) it is the tallest building in Poland, the 5th-tallest building in the European Union (including spire) and one of the tallest on the European continent. Constructed in 1955, it houses various public and cultural institutions such as cinemas, theatres, libraries, sports clubs, university faculties and authorities of the Polish Academy of Sciences.</description>
+      <guid>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</guid>
+      <description>published in ‘Global Change Biology’, 2017.09AbstractAgricultural soils are widely recognized to be capable of carbon sequestration that contributes to mitigating CO2 emissions. To better understand soil organic carbon (SOC) stock dynamics and its driving and controlling factors corresponding with a period of rapid agronomic evolution from the 1980s to the 2010s in the North China Plain (NCP), we collected data from two region-wide soil sampling campaigns (in the 1980s and 2010s) and conducted an analysis of the controlling factors using the random forest model.</description>
     </item>
     
     <item>
-      <title>Hel, Poland</title>
-      <link>https://daorui-han.netlify.app/photos/hel-poland-3/</link>
-      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      <title>Colorado State University, farmland</title>
+      <link>https://daorui-han.netlify.app/photos/csu/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://daorui-han.netlify.app/photos/hel-poland-3/</guid>
-      <description>Hel Peninsula (Polish: Mierzeja Helska) is a 35-km-long sand bar peninsula in northern Poland separating the Bay of Puck from the open Baltic Sea. The width of the peninsula varies from approximately 300 m near Jurata, through 100 m in the most narrow part to over 3 km at the tip. Since the peninsula was formed entirely of sand, it is frequently turned into an island by winter storms. Until the 17th century the peninsula was a chain of islands that formed a strip of land only during the summer.</description>
-    </item>
-    
-    <item>
-      <title>Hel, Poland</title>
-      <link>https://daorui-han.netlify.app/photos/hel-poland-2/</link>
-      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/photos/hel-poland-2/</guid>
-      <description>Hel Peninsula (Polish: Mierzeja Helska) is a 35-km-long sand bar peninsula in northern Poland separating the Bay of Puck from the open Baltic Sea. The width of the peninsula varies from approximately 300 m near Jurata, through 100 m in the most narrow part to over 3 km at the tip. Since the peninsula was formed entirely of sand, it is frequently turned into an island by winter storms. Until the 17th century the peninsula was a chain of islands that formed a strip of land only during the summer.</description>
-    </item>
-    
-    <item>
-      <title>Arizona, US</title>
-      <link>https://daorui-han.netlify.app/photos/arizona-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/photos/arizona-us/</guid>
-      <description>The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).</description>
-    </item>
-    
-    <item>
-      <title>Chicago, US</title>
-      <link>https://daorui-han.netlify.app/photos/chicago-us/</link>
-      <pubDate>Tue, 21 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/photos/chicago-us/</guid>
-      <description>Chicago, officially the City of Chicago, is the most populous city in the U.S. state of Illinois, and the third-most-populous city in the United States. With an estimated population of 2,705,994 (2018), it is also the most populous city in the Midwestern United States. Chicago is the county seat of Cook County, the second-most-populous county in the US, with a small portion of the northwest side of the city extending into DuPage County near O&amp;rsquo;Hare Airport.</description>
-    </item>
-    
-    <item>
-      <title>Panaji, India</title>
-      <link>https://daorui-han.netlify.app/photos/panaji-india-2/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/photos/panaji-india-2/</guid>
-      <description>Panaji, formerly Panjim, is the capital of the Indian state of Goa and the headquarters of North Goa district. It lies on the banks of the Mandovi River estuary in the Ilhas de Goa sub-district (taluka). With a population of 114,759 in the metropolitan area, Panjim is Goa&amp;rsquo;s largest urban agglomeration, ahead of Margão and Vasco da Gama.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://daorui-han.netlify.app/articles/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/articles/what-is-hugo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; 
-&lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://daorui-han.netlify.app/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; 
-&lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/ps_ncp/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/ps_ncp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; 
-&lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt; &lt;img src=&#34;images/grafify-gallery.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What is Hugo</title>
-      <link>https://daorui-han.netlify.app/articles/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/articles/introduction/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/%E4%BA%9A%E6%B4%B2%E5%9C%B0%E8%B2%8C.jpg&#34; alt=&#34;&#34;&gt;
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What is Hugo</title>
-      <link>https://daorui-han.netlify.app/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/posts/introduction/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/%E4%BA%9A%E6%B4%B2%E5%9C%B0%E8%B2%8C.jpg&#34; alt=&#34;&#34;&gt;
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>What is Hugo</title>
-      <link>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/gcb_ncp/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/gcb_ncp/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/%E4%BA%9A%E6%B4%B2%E5%9C%B0%E8%B2%8C.jpg&#34; alt=&#34;&#34;&gt;
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
+      <guid>https://daorui-han.netlify.app/photos/csu/</guid>
+      <description>Greenhouse gas experiment and soil sampling, the gas collection equipment was in the middle. With Rich. </description>
     </item>
     
     <item>
@@ -167,6 +74,71 @@ Hugo is a fast and modern static site generator written in Go, and designed to m
 Love life, Love work.
 License Copyright © 2020 Marcin Mierzejewski
 The theme is released under the MIT License. Check the original theme license for additional licensing information.</description>
+    </item>
+    
+    <item>
+      <title>C changes and controlling factors on North China Plain</title>
+      <link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link>
+      <pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid>
+      <description>published in ‘Plant and Soil’, 2016.05AbstractAimsTry to detect the spatiotemporal dynamics and thecontrolling factors of soil organic carbon (SOC) in theNorth China Plain (NCP) over the last 30 years:1980s-2010s.
+MethodsWe investigated the SOC evolution by com-piling data from 32 published papers during the last30 years. Then we examined the spatial pattern andcontrolling factors by analysing a two-period samplingobservations (1980s and 2010s) and multiple explana-tory variables in four typical counties.</description>
+    </item>
+    
+    <item>
+      <title>Footbal Champion Revolution</title>
+      <link>https://daorui-han.netlify.app/life/football/</link>
+      <pubDate>Mon, 06 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/life/football/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German, Alps</title>
+      <link>https://daorui-han.netlify.app/life/german/</link>
+      <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/life/german/</guid>
+      <description>Under Alps mountain Excavate soil pillars and arrange experiments along the climate gradient Pictures with Martin </description>
+    </item>
+    
+    <item>
+      <title>German, Alps</title>
+      <link>https://daorui-han.netlify.app/photos/german/</link>
+      <pubDate>Sun, 06 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/photos/german/</guid>
+      <description>Under Alps mountain Excavate soil pillars and arrange experiments along the climate gradient Pictures with Martin </description>
+    </item>
+    
+    <item>
+      <title>Tibetan field survey years ago</title>
+      <link>https://daorui-han.netlify.app/life/haibei/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/life/haibei/</guid>
+      <description>Our teamsampling1
+sampling2
+having lunch during the day
+mountain pass
+Animals
+Great journey. My first field sampling project, unforgettable experience, ^_^.</description>
+    </item>
+    
+    <item>
+      <title>Tibetan field survey years ago</title>
+      <link>https://daorui-han.netlify.app/photos/haibei/</link>
+      <pubDate>Wed, 08 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/photos/haibei/</guid>
+      <description>Our teamsampling1
+sampling2
+having lunch during the day
+mountain pass
+Animals
+Great journey. My first field sampling project, unforgettable experience, ^_^.</description>
     </item>
     
   </channel>

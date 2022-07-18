@@ -9,9 +9,9 @@ params:
       url: about/
     - name: publications
       url: articles/
-    - name: posts
-      url: posts/
-    - name: photos
+    - name: project
       url: photos/
+    - name: life
+      url: life/
    
   titleCutting: no

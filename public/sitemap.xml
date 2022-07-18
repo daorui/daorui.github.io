@@ -4,7 +4,14 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/articles/</loc>
+            <loc>https://daorui-han.netlify.app/categories/artical/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/categories/article/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
@@ -25,42 +32,21 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/erl_tibetan/</loc>
+            <loc>https://daorui-han.netlify.app/tags/machine-learning/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/tags/plot/</loc>
+            <loc>https://daorui-han.netlify.app/tags/predictive-mapping/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/</loc>
-            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/categories/r/</loc>
-            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/tags/r-markdown/</loc>
-            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/tags/regression/</loc>
+            <loc>https://daorui-han.netlify.app/tags/randomforest/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
@@ -74,113 +60,71 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/articles/2020-12-01-r-rmarkdown/</loc>
+            <loc>https://daorui-han.netlify.app/articles/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/posts/2020-12-01-r-rmarkdown/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <loc>https://daorui-han.netlify.app/articles/erl_tp_2022/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/posts/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+            <loc>https://daorui-han.netlify.app/life/</loc>
+            <lastmod>2020-08-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://daorui-han.netlify.app/photos/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+            <lastmod>2020-08-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/photos/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/life/guangzhou/</loc>
+            <lastmod>2020-08-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/photos/hel-poland-3/</loc>
-            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/photos/guangzhou/</loc>
+            <lastmod>2020-08-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/photos/hel-poland-2/</loc>
-            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/tags/c-changes/</loc>
+            <lastmod>2018-02-10T10:12:18-06:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/photos/arizona-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/tags/north-china-plain/</loc>
+            <lastmod>2018-02-10T10:12:18-06:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/photos/chicago-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</loc>
+            <lastmod>2018-02-10T10:12:18-06:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/photos/panaji-india-2/</loc>
-            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/articles/what-is-hugo/</loc>
-            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/posts/what-is-hugo/</loc>
-            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/ps_ncp/</loc>
-            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/articles/introduction/</loc>
-            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/posts/introduction/</loc>
-            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/gcb_ncp/</loc>
-            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/photos/csu/</loc>
+            <lastmod>2017-03-07T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -188,6 +132,55 @@
         <url>
             <loc>https://daorui-han.netlify.app/about/</loc>
             <lastmod>2016-10-30T22:22:22+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/articles/ps_ncp_2016/</loc>
+            <lastmod>2016-07-13T10:11:08-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/tags/mixed-linear-model/</loc>
+            <lastmod>2016-07-13T10:11:08-04:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/life/football/</loc>
+            <lastmod>2016-06-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/life/german/</loc>
+            <lastmod>2016-03-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/photos/german/</loc>
+            <lastmod>2016-03-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/life/haibei/</loc>
+            <lastmod>2012-08-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/photos/haibei/</loc>
+            <lastmod>2012-08-08T00:00:00+00:00</lastmod>
         </url>
         
     

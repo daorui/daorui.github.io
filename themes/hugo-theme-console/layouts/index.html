@@ -5,44 +5,39 @@
 <p><a href='my_cv.pdf'>My CV </a></p>
 
 
-<h1>About me</h1>
+<h1><a href='/about'><b>About me</b></a></h1>
 
 <p>
 A soil science researcher, I will commit myself to exploring soil organic carbon stocks on earth and their responses to the world change. <a href="about/">(more)</a>
 </p>
 <br/>
 
-<h1>Featured publications</h1>
 
-<div class="post-list">
+<h1><a href='/articles'><b>Featured publications</b></a></h1>
+
+<div class="posts-list">
 {{ with .Site.GetPage "/articles" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        
         <div class="post">
-            <p>
-                <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
-                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+           <div class="date"><b>{{ .PublishDate.Format "Jan. 2, 2006"}}</b>&nbsp;</div> 
+               <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
                 {{ .Summary }}
-            </p>
-        </div> 
-        <div class="image-grid">
-          
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "800x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+                <a href="{{ .Permalink }}" title="{{ .Title }}">
+                  {{ $image := .Page.Resources.GetMatch .Params.image }}
+                  {{ with $image }}
+                     {{ $thumb := .Resize "800x" }}
+                     <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
         {{end}}
         </a>
-          </div>   
+        </div>    
     {{ end }}
 {{ end }}
 </div>
 
-<h1>Latest photos</h1>
+<h1><a href="/posts"><b>Field works</b></a></h1>
 
-<div class="post-list">
-{{ with .Site.GetPage "/posts" }}
+<div class="image-grid">
+{{ with .Site.GetPage "/photos" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
@@ -55,12 +50,14 @@ A soil science researcher, I will commit myself to exploring soil organic carbon
 {{ end }}
 </div>
 
-<h1>Latest nidaye</h1>
+
+<h1><a href="/life"><b>Leisure and Fun</b></a></h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
+{{ with .Site.GetPage "/life" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
+          
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}
             {{ $thumb := .Resize "400x" }}
