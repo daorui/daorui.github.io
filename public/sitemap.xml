@@ -4,232 +4,190 @@
     
         
         <url>
-            <loc>https://example.com/categories/</loc>
+            <loc>https://daorui-han.netlify.app/articles/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/categories/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/erl_tibetan/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/tags/plot/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/categories/r/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/tags/r-markdown/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/tags/regression/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/tags/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/articles/2020-12-01-r-rmarkdown/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/posts/2020-12-01-r-rmarkdown/</loc>
             <lastmod>2020-12-01T21:13:14-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/</loc>
+            <loc>https://daorui-han.netlify.app/posts/</loc>
             <lastmod>2020-12-01T21:13:14-05:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/posts/2020-12-01-r-rmarkdown/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/tags/plot/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/posts/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/categories/r/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/tags/r-markdown/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/tags/regression/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/tags/</loc>
-            <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/</loc>
+            <loc>https://daorui-han.netlify.app/photos/</loc>
             <lastmod>2020-02-09T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/photos/</loc>
+            <loc>https://daorui-han.netlify.app/photos/warsaw-poland/</loc>
             <lastmod>2020-02-09T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/publications/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/publications/warsaw-poland/</loc>
-            <lastmod>2020-02-09T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/hel-poland-3/</loc>
+            <loc>https://daorui-han.netlify.app/photos/hel-poland-3/</loc>
             <lastmod>2020-02-06T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/photos/hel-poland-3/</loc>
-            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/publications/hel-poland-3/</loc>
-            <lastmod>2020-02-06T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/hel-poland-2/</loc>
+            <loc>https://daorui-han.netlify.app/photos/hel-poland-2/</loc>
             <lastmod>2020-01-23T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/photos/hel-poland-2/</loc>
-            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/publications/hel-poland-2/</loc>
-            <lastmod>2020-01-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/arizona-us/</loc>
+            <loc>https://daorui-han.netlify.app/photos/arizona-us/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/photos/arizona-us/</loc>
+            <loc>https://daorui-han.netlify.app/photos/chicago-us/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/publications/arizona-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/chicago-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos/chicago-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/publications/chicago-us/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/photos-%E5%89%AF%E6%9C%AC/panaji-india-2/</loc>
+            <loc>https://daorui-han.netlify.app/photos/panaji-india-2/</loc>
             <lastmod>2020-01-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/photos/panaji-india-2/</loc>
-            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/publications/panaji-india-2/</loc>
-            <lastmod>2020-01-07T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://example.com/posts/what-is-hugo/</loc>
+            <loc>https://daorui-han.netlify.app/articles/what-is-hugo/</loc>
             <lastmod>2019-08-03T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/posts/introduction/</loc>
+            <loc>https://daorui-han.netlify.app/posts/what-is-hugo/</loc>
+            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/ps_ncp/</loc>
+            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/articles/introduction/</loc>
             <lastmod>2019-07-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://example.com/about/</loc>
-            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+            <loc>https://daorui-han.netlify.app/posts/introduction/</loc>
+            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/publicatioins-%E5%89%AF%E6%9C%AC/gcb_ncp/</loc>
+            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/about/</loc>
+            <lastmod>2016-10-30T22:22:22+05:30</lastmod>
         </url>
         
     

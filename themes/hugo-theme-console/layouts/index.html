@@ -1,32 +1,48 @@
 {{ define "main" }}
 
-<h1>About</h1>
+
+<img src='my_front.jpg')>
+<p><a href='my_cv.pdf'>My CV </a></p>
+
+
+<h1>About me</h1>
 
 <p>
-Console is a minimal, responsive and light theme for Hugo inspired by Linux console.  <a href="about/">(more)</a>
+A soil science researcher, I will commit myself to exploring soil organic carbon stocks on earth and their responses to the world change. <a href="about/">(more)</a>
 </p>
 <br/>
 
-<h1>Latest posts</h1>
+<h1>Featured publications</h1>
 
-<div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
+<div class="post-list">
+{{ with .Site.GetPage "/articles" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        
         <div class="post">
             <p>
                 <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>
                 <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
                 {{ .Summary }}
             </p>
-        </div>    
+        </div> 
+        <div class="image-grid">
+          
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "800x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+          </div>   
     {{ end }}
 {{ end }}
 </div>
 
 <h1>Latest photos</h1>
 
-<div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
+<div class="post-list">
+{{ with .Site.GetPage "/posts" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}

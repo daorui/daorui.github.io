@@ -8,7 +8,7 @@ params:
     - name: about
       url: about/
     - name: publications
-      url: publications/
+      url: articles/
     - name: posts
       url: posts/
     - name: photos
