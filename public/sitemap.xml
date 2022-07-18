@@ -4,13 +4,6 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/categories/artical/</loc>
-            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://daorui-han.netlify.app/categories/article/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
@@ -26,6 +19,13 @@
         
         <url>
             <loc>https://daorui-han.netlify.app/</loc>
+            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/articles/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
         
@@ -60,13 +60,6 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/articles/</loc>
-            <lastmod>2022-03-15T21:13:14-05:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://daorui-han.netlify.app/articles/erl_tp_2022/</loc>
             <lastmod>2022-03-15T21:13:14-05:00</lastmod>
         </url>
@@ -75,20 +68,20 @@
         
         <url>
             <loc>https://daorui-han.netlify.app/life/</loc>
-            <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+            <lastmod>2021-10-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/life/football4/</loc>
+            <lastmod>2021-10-30T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>https://daorui-han.netlify.app/photos/</loc>
-            <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/life/guangzhou/</loc>
             <lastmod>2020-08-23T00:00:00+00:00</lastmod>
         </url>
         
@@ -151,20 +144,6 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/life/football/</loc>
-            <lastmod>2016-06-06T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://daorui-han.netlify.app/life/german/</loc>
-            <lastmod>2016-03-06T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://daorui-han.netlify.app/photos/german/</loc>
             <lastmod>2016-03-06T00:00:00+00:00</lastmod>
         </url>
@@ -172,8 +151,8 @@
     
         
         <url>
-            <loc>https://daorui-han.netlify.app/life/haibei/</loc>
-            <lastmod>2012-08-08T00:00:00+00:00</lastmod>
+            <loc>https://daorui-han.netlify.app/life/football3/</loc>
+            <lastmod>2015-09-27T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -181,6 +160,20 @@
         <url>
             <loc>https://daorui-han.netlify.app/photos/haibei/</loc>
             <lastmod>2012-08-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/life/football2/</loc>
+            <lastmod>2011-06-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://daorui-han.netlify.app/life/football/</loc>
+            <lastmod>2007-06-06T00:00:00+00:00</lastmod>
         </url>
         
     
