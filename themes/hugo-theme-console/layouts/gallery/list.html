@@ -1,12 +1,12 @@
 {{ define "main" }}
-<h1>{{ .Page.Title }}</h1>
+<h1>{{ .Page.Title }} </h1>
 {{ .Content }}
 <div class="image-grid">
     {{ range sort .Data.Pages "Date" "desc" }}
         {{ if and (isset .Params "image") .Params.image }}
          <div class='post'>
            <div class="date"><b>{{ .PublishDate.Format "Jan. 2, 2006"}}</b>&nbsp; </div>
-               <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+               <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }} (click for more)</a></h1>
               
             <a href="{{ .Permalink }}" title="{{ .Title }}">
             {{ $image := .Page.Resources.GetMatch .Params.image }}

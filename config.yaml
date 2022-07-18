@@ -5,13 +5,15 @@ languageCode: en-us
 params:
   animateStyle: animated zoomIn fast
   navlinks:
-    - name: about
+    - name: About
       url: about/
-    - name: publications
+    - name: Publications
       url: articles/
-    - name: project
+    - name: Project
       url: photos/
-    - name: life
+    - name: Life
       url: life/
+    - name: My_CV
+      url: my_cv.pdf
    
   titleCutting: no
