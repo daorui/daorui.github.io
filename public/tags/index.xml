@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on DAORUI HAN</title><link>https://daorui-han.netlify.app/tags/</link><description>Recent content in Tags on DAORUI HAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 21:13:14 -0500</lastBuildDate><atom:link href="https://daorui-han.netlify.app/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>hudson bay lowland</title><link>https://daorui-han.netlify.app/tags/hudson-bay-lowland/</link><pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/tags/hudson-bay-lowland/</guid><description/></item><item><title>landsat 8</title><link>https://daorui-han.netlify.app/tags/landsat-8/</link><pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/tags/landsat-8/</guid><description/></item><item><title>peatland</title><link>https://daorui-han.netlify.app/tags/peatland/</link><pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/tags/peatland/</guid><description/></item><item><title>Predictive mapping</title><link>https://daorui-han.netlify.app/tags/predictive-mapping/</link><pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/tags/predictive-mapping/</guid><description/></item><item><title>machine learning</title><link>https://daorui-han.netlify.app/tags/machine-learning/</link><pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/tags/machine-learning/</guid><description/></item><item><title>RandomForest</title><link>https://daorui-han.netlify.app/tags/randomforest/</link><pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/tags/randomforest/</guid><description/></item><item><title>C changes</title><link>https://daorui-han.netlify.app/tags/c-changes/</link><pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate><guid>https://daorui-han.netlify.app/tags/c-changes/</guid><description/></item><item><title>North China Plain</title><link>https://daorui-han.netlify.app/tags/north-china-plain/</link><pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate><guid>https://daorui-han.netlify.app/tags/north-china-plain/</guid><description/></item><item><title>Mixed linear model</title><link>https://daorui-han.netlify.app/tags/mixed-linear-model/</link><pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate><guid>https://daorui-han.netlify.app/tags/mixed-linear-model/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DAORUI HAN</title>
+    <link>https://daorui-han.netlify.app/tags/</link>
+    <description>Recent content in Tags on DAORUI HAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 21:13:14 -0500</lastBuildDate><atom:link href="https://daorui-han.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hudson bay lowland</title>
+      <link>https://daorui-han.netlify.app/tags/hudson-bay-lowland/</link>
+      <pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/hudson-bay-lowland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landsat 8</title>
+      <link>https://daorui-han.netlify.app/tags/landsat-8/</link>
+      <pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/landsat-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>peatland</title>
+      <link>https://daorui-han.netlify.app/tags/peatland/</link>
+      <pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/peatland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictive mapping</title>
+      <link>https://daorui-han.netlify.app/tags/predictive-mapping/</link>
+      <pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/predictive-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://daorui-han.netlify.app/tags/machine-learning/</link>
+      <pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RandomForest</title>
+      <link>https://daorui-han.netlify.app/tags/randomforest/</link>
+      <pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/randomforest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C changes</title>
+      <link>https://daorui-han.netlify.app/tags/c-changes/</link>
+      <pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/c-changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North China Plain</title>
+      <link>https://daorui-han.netlify.app/tags/north-china-plain/</link>
+      <pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/north-china-plain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed linear model</title>
+      <link>https://daorui-han.netlify.app/tags/mixed-linear-model/</link>
+      <pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/tags/mixed-linear-model/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

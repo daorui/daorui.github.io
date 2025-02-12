@@ -1,0 +1,46 @@
+---
+title: "Canada Soil Organic Carbon (SOC) Change in Response to Climate Change"
+author: "Daorui Han"
+date: 2025-03-18
+categories: ["Article"]
+tags: ["Canada SOC","Ensemble Machine Learning", "Multiple Way","Carbon Balance"]
+image: images/Cover.png
+draft: false
+---
+###### published in *'in Preparation'*, 2025.03
+
+# Abstract 
+
+Canada's soils, particularly its vast peatlands, play a critical role in the global carbon cycle due to their significant stores of soil organic carbon (SOC). However, the response of SOC stocks to future climate change remains uncertain, especially given the sensitivity of peatland carbon to rising temperatures. Here, we assess potential changes in SOC stocks across Canada under future climate scenarios by integrating CMIP6 climate projections, machine learning models, and a carbon balance framework. While CMIP6 models provide valuable insights into future temperature and precipitation trends, they underestimate future carbon losses and fail to capture the spatial distribution of SOC changes. Our machine learning models, trained on current SOC observations, predict substantial SOC losses (~7 to 15 Pg) by 2100, with the majority occurring in peatlands. The application of a carbon balance framework further constrains these predictions, highlighting the critical role of peatlands—particularly in the Hudson Bay Lowlands and northwestern Canada—in driving regional carbon dynamics. Our findings underscore the vulnerability of peatland SOC to climate warming and the need for improved representation of carbon feedback mechanisms in global climate models. This study presents a multi-method framework for assessing SOC dynamics under climate change, offering key insights for refining carbon cycle models and informing climate policy. 
+
+# Main results    
+![Fig.1 Base mapping of SOC in Canada](images/figure1.png "base map")
+
+![Fig. 2 Temporal trend of SOC with two scenarios in four different methods ](images/figure2.png "SOC temporal trend")
+
+
+
+# Story behind
+
+Highlight: 
+    
+    - using method from He to get C input to soil from vegetation
+    - based on emergent constrain to get GPP in the future to calibrate data from CMIP
+    - using ensemble machine learning to predict SOC, and splite into 10 cm interval for trainning, improve accuracy. set Peat map into categories to capture the peat extend. 
+    - using C input and C output balance to simulate C transient dynamic
+    - build relationship of turnover to climate variables (M4)
+    - set different experiment to detect main driving factor to SOC 
+
+
+
+# Recommandation 
+
+  - card better than lu for soil res.
+  - not use deepl for regression problem, not good. 
+  - using SOCD to direct predict future SOCD to avoid systemetical bias. 
+  
+  
+
+
+
+
