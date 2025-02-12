@@ -5,3 +5,6 @@ now in ： MAC DOCUMENT/cv RELATED FOLDER
   GO TO CONTENT, THEN ADD NEW RELATED FOLDER, ADD NEW IMAGES FOLDER(IF PICTURE IS NEEDED) IN THE NEW CREATED FOLDER, ADD AN INDEX.RMD FILE, THEN EVERYTHIING IS DONE. IN PUBLIC IT WILL AUTOMATELY CREATE OTHER FILES. 
   
   # if not properly shown, just delete public folder , then in Rstudio terminal rerun hugo --minify or hugo ; it will recreate public
+  
+  # theme image change through daorui.github.io/themes/hugo-theme-console/layouts 
+  like daorui.github.io/themes/hugo-theme-console/layouts/index.html change the background figure ; the content they called was stored in content folder

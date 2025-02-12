@@ -1,9 +1,0 @@
----
-date: "2015-09-27"
-image: images/IMG_1879.JPG
-title: The third champion
-type: gallery
----
-## My third champion in 2015
-
-## in Beijing
