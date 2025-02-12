@@ -15,9 +15,8 @@ The Hudson Bay Lowlands (HBL) are recognized as the second largest peatland comp
 # Main results    
 ![Fig.1 sampling sites](images/figure1.png "sampline sites")
 
-![Fig. 2 Sampling distribution in Hudson Bay Lowland area](images/figure2.png "Peat Depth Mapping")
 
-![Fig. 3 (a) Predicted Peat Detph and (b) Estimated Peat C storage based on empirical relationship ](images/figure2-1.png 'Estimation')
+![Fig. 2 (a) Predicted Peat Detph and (b) Estimated Peat C storage based on empirical relationship ](images/figure2.png "Peat Depth Mapping")
 
 # Story behind
 
@@ -27,7 +26,9 @@ Totally cost ~10 hours for prediction.
 
 # Recommandation 
 
-  - packages: caret (great basic one, easy to use) --> new ones like 'h2o', 'tidymodel' and 'mlr3' are the best substitution. 
+  - using Qgis to  "Raster" → "Miscellaneous" → "Split Raster"
+  - using h2o to train ensemble model and then predict. 
+  - nearest mean value to fill NA in landsat 8 from landsat 7. 
   
 
 
