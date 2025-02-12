@@ -1,30 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>C changes on DAORUI HAN</title>
-    <link>https://daorui-han.netlify.app/tags/c-changes/</link>
-    <description>Recent content in C changes on DAORUI HAN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 10 Feb 2018 10:12:18 -0600</lastBuildDate><atom:link href="https://daorui-han.netlify.app/tags/c-changes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>SOC change on North China Plain from 1980s to 2010s</title>
-      <link>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</link>
-      <pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</guid>
-      <description>published in ‘Global Change Biology’, 2017.09  Abstract Agricultural soils are widely recognized to be capable of carbon sequestration that contributes to mitigating CO2 emissions. To better understand soil organic carbon (SOC) stock dynamics and its driving and controlling factors corresponding with a period of rapid agronomic evolution from the 1980s to the 2010s in the North China Plain (NCP), we collected data from two region-wide soil sampling campaigns (in the 1980s and 2010s) and conducted an analysis of the controlling factors using the random forest model.</description>
-    </item>
-    
-    <item>
-      <title>C changes and controlling factors on North China Plain</title>
-      <link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link>
-      <pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid>
-      <description>published in ‘Plant and Soil’, 2016.05AbstractAimsTry to detect the spatiotemporal dynamics and thecontrolling factors of soil organic carbon (SOC) in theNorth China Plain (NCP) over the last 30 years:1980s-2010s.
-MethodsWe investigated the SOC evolution by com-piling data from 32 published papers during the last30 years. Then we examined the spatial pattern andcontrolling factors by analysing a two-period samplingobservations (1980s and 2010s) and multiple explana-tory variables in four typical counties.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C changes on DAORUI HAN</title><link>https://daorui-han.netlify.app/tags/c-changes/</link><description>Recent content in C changes on DAORUI HAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Feb 2018 10:12:18 -0600</lastBuildDate><atom:link href="https://daorui-han.netlify.app/tags/c-changes/index.xml" rel="self" type="application/rss+xml"/><item><title>SOC change on North China Plain from 1980s to 2010s</title><link>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</link><pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate><guid>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</guid><description>published in ‘Global Change Biology’, 2017.09 Abstract Agricultural soils are widely recognized to be capable of carbon sequestration that contributes to mitigating CO2 emissions. To better understand soil organic carbon (SOC) stock dynamics and its driving and controlling factors corresponding with a period of rapid agronomic evolution from the 1980s to the 2010s in the North China Plain (NCP), we collected data from two region-wide soil sampling campaigns (in the 1980s and 2010s) and conducted an analysis of the controlling factors using the random forest model.</description></item><item><title>C changes and controlling factors on North China Plain</title><link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link><pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate><guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid><description>published in ‘Plant and Soil’, 2016.05
+Abstract
+Aims
+Try to detect the spatiotemporal dynamics and the
+controlling factors of soil organic carbon (SOC) in the
+North China Plain (NCP) over the last 30 years:
+1980s-2010s.
+Methods
+We investigated the SOC evolution by com-
+piling data from 32 published papers during the last
+30 years. Then we examined the spatial pattern and
+controlling factors by analysing a two-period sampling
+observations (1980s and 2010s) and multiple explana-
+tory variables in four typical counties.</description></item></channel></rss>
