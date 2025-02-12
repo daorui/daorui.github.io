@@ -6,7 +6,7 @@ categories: ["Article"]
 tags: ["hudson bay lowland","peatland", "Predictive mapping","landsat 8"]
 image: images/cover.png 
 ---
-###### published in *'environmental research letters'*, 2022.03
+###### published in *'geophysical research letters'*, 2025.01
 
 # Abstract 
 
