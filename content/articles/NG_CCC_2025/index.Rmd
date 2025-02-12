@@ -1,0 +1,45 @@
+---
+title: "Canada Soil Organic Carbon (SOC) Change in Response to Climate Change"
+author: 'Daorui Han, Alemu Gonsamo'
+date: 2025-03-15T21:10:12-05:00
+categories: ["Article"]
+tags: ["Canada SOC","Ensemble Machine Learning", "Multiple Way","Carbon Balance"]
+image: images/cover.png 
+---
+###### published in *'in Preparation'*, 2025.03
+
+# Abstract 
+
+Using multiple methods which come from different disciplines create a robust way to estimate SOC trend in response to climate change in Canada. In the future 
+
+# Main results    
+![Fig.1 Base mapping of SOC in Canada](images/figure1.png "Framework")
+
+![Fig. 2 Temporal trend of SOC with two scenarios in four different methods ](images/figure2.png "SOC temporal trend")
+
+
+
+# Story behind
+
+Highlight: 
+    
+    - using method from He to get C input to soil from vegetation
+    - based on emergent constrain to get GPP in the future to calibrate data from CMIP
+    - using ensemble machine learning to predict SOC, and splite into 10 cm interval for trainning, improve accuracy. set Peat map into categories to capture the peat extend. 
+    - using C input and C output balance to simulate C transient dynamic
+    - build relationship of turnover to climate variables (M4)
+    - set different experiment to detect main driving factor to SOC 
+
+
+
+# Recommandation 
+
+  - card better than lu for soil res.
+  - not use deepl for regression problem, not good. 
+  - using SOCD to direct predict future SOCD to avoid systemetical bias. 
+  
+  
+
+
+
+
