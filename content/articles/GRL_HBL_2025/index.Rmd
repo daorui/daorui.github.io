@@ -1,7 +1,7 @@
 ---
-title: "Tibetan C mapping and its driving factors"
+title: "Peat Depth and Carbon Storage of the Hudson Bay Lowlands, Canada"
 author: 'Yiyao Li, Daorui Han, Cheryl A. Rogers, Sarah A. Finkelstein, Oleksandra Hararuk, James M. Waddington, Carlos Barreto, James W. McLaughlin, James Snider, Alemu Gonsamo'
-date: 2024-01-01T21:13:14-05:00
+date: 2025-01-01T21:13:14-05:00
 categories: ["Article"]
 tags: ["hudson bay lowland","peatland", "Predictive mapping","landsat 8"]
 image: images/cover.png 
@@ -15,9 +15,9 @@ The Hudson Bay Lowlands (HBL) are recognized as the second largest peatland comp
 # Main results    
 ![Fig.1 sampling sites](images/figure1.png "sampline sites")
 
-
-
 ![Fig. 2 (a) Predicted Peat Detph and (b) Estimated Peat C storage based on empirical relationship ](images/figure2.png "Peat Depth Mapping")
+
+
 
 # Story behind
 
