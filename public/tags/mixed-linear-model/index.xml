@@ -1,21 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mixed linear model on DAORUI HAN</title>
-    <link>https://daorui-han.netlify.app/tags/mixed-linear-model/</link>
-    <description>Recent content in Mixed linear model on DAORUI HAN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2016 10:11:08 -0400</lastBuildDate><atom:link href="https://daorui-han.netlify.app/tags/mixed-linear-model/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>C changes and controlling factors on North China Plain</title>
-      <link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link>
-      <pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid>
-      <description>published in ‘Plant and Soil’, 2016.05AbstractAimsTry to detect the spatiotemporal dynamics and thecontrolling factors of soil organic carbon (SOC) in theNorth China Plain (NCP) over the last 30 years:1980s-2010s.
-MethodsWe investigated the SOC evolution by com-piling data from 32 published papers during the last30 years. Then we examined the spatial pattern andcontrolling factors by analysing a two-period samplingobservations (1980s and 2010s) and multiple explana-tory variables in four typical counties.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mixed linear model on DAORUI HAN</title><link>https://daorui-han.netlify.app/tags/mixed-linear-model/</link><description>Recent content in Mixed linear model on DAORUI HAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Jul 2016 10:11:08 -0400</lastBuildDate><atom:link href="https://daorui-han.netlify.app/tags/mixed-linear-model/index.xml" rel="self" type="application/rss+xml"/><item><title>C changes and controlling factors on North China Plain</title><link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link><pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate><guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid><description>published in ‘Plant and Soil’, 2016.05
+Abstract
+Aims
+Try to detect the spatiotemporal dynamics and the
+controlling factors of soil organic carbon (SOC) in the
+North China Plain (NCP) over the last 30 years:
+1980s-2010s.
+Methods
+We investigated the SOC evolution by com-
+piling data from 32 published papers during the last
+30 years. Then we examined the spatial pattern and
+controlling factors by analysing a two-period sampling
+observations (1980s and 2010s) and multiple explana-
+tory variables in four typical counties.</description></item></channel></rss>

@@ -1,47 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Leisure on DAORUI HAN</title>
-    <link>https://daorui-han.netlify.app/life/</link>
-    <description>Recent content in Leisure on DAORUI HAN</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://daorui-han.netlify.app/life/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Participatioin award olo</title>
-      <link>https://daorui-han.netlify.app/life/football4/</link>
-      <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/life/football4/</guid>
-      <description>Super GREAT TEAM, We won the 10th out of 10 teams, ^^. The organizing committee awarded us the participation award</description>
-    </item>
-    
-    <item>
-      <title>The third champion</title>
-      <link>https://daorui-han.netlify.app/life/football3/</link>
-      <pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/life/football3/</guid>
-      <description>My third champion in 2015in Beijing</description>
-    </item>
-    
-    <item>
-      <title>Xining, NWIPB, CAS</title>
-      <link>https://daorui-han.netlify.app/life/football2/</link>
-      <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/life/football2/</guid>
-      <description>My second champion in 2011 in XINING Great team and friendship. </description>
-    </item>
-    
-    <item>
-      <title>Footbal Champion Revolution 001</title>
-      <link>https://daorui-han.netlify.app/life/football/</link>
-      <pubDate>Wed, 06 Jun 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://daorui-han.netlify.app/life/football/</guid>
-      <description>Our first champion in binzhou </description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Leisure on DAORUI HAN</title><link>https://daorui-han.netlify.app/life/</link><description>Recent content in Leisure on DAORUI HAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://daorui-han.netlify.app/life/index.xml" rel="self" type="application/rss+xml"/><item><title>Participatioin award olo</title><link>https://daorui-han.netlify.app/life/football4/</link><pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate><guid>https://daorui-han.netlify.app/life/football4/</guid><description> Super GREAT TEAM, We won the 10th out of 10 teams, ^^. The organizing committee awarded us the participation award</description></item><item><title>The third champion</title><link>https://daorui-han.netlify.app/life/football3/</link><pubDate>Sun, 27 Sep 2015 00:00:00 +0000</pubDate><guid>https://daorui-han.netlify.app/life/football3/</guid><description> My third champion in 2015 in Beijing</description></item><item><title>Xining, NWIPB, CAS</title><link>https://daorui-han.netlify.app/life/football2/</link><pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate><guid>https://daorui-han.netlify.app/life/football2/</guid><description>My second champion in 2011 in XINING Great team and friendship.</description></item><item><title>Footbal Champion Revolution 001</title><link>https://daorui-han.netlify.app/life/football/</link><pubDate>Wed, 06 Jun 2007 00:00:00 +0000</pubDate><guid>https://daorui-han.netlify.app/life/football/</guid><description>Our first champion in binzhou</description></item></channel></rss>
