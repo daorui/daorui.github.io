@@ -4,7 +4,7 @@ author: 'Daorui Han, Alemu Gonsamo'
 date: 2025-03-15T21:10:12-05:00
 categories: ["Article"]
 tags: ["Canada SOC","Ensemble Machine Learning", "Multiple Way","Carbon Balance"]
-image: images/cover.png 
+image: images/Cover.png 
 ---
 ###### published in *'in Preparation'*, 2025.03
 
@@ -13,7 +13,7 @@ image: images/cover.png
 Using multiple methods which come from different disciplines create a robust way to estimate SOC trend in response to climate change in Canada. In the future 
 
 # Main results    
-![Fig.1 Base mapping of SOC in Canada](images/figure1.png "Framework")
+![Fig.1 Base mapping of SOC in Canada](images/figure1.png "base map")
 
 ![Fig. 2 Temporal trend of SOC with two scenarios in four different methods ](images/figure2.png "SOC temporal trend")
 
