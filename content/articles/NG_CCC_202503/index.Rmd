@@ -11,7 +11,7 @@ draft: false
 
 # Abstract 
 
-Using multiple methods which come from different disciplines create a robust way to estimate SOC trend in response to climate change in Canada. In the future 
+Canada's soils, particularly its vast peatlands, play a critical role in the global carbon cycle due to their significant stores of soil organic carbon (SOC). However, the response of SOC stocks to future climate change remains uncertain, especially given the sensitivity of peatland carbon to rising temperatures. Here, we assess potential changes in SOC stocks across Canada under future climate scenarios by integrating CMIP6 climate projections, machine learning models, and a carbon balance framework. While CMIP6 models provide valuable insights into future temperature and precipitation trends, they underestimate future carbon losses and fail to capture the spatial distribution of SOC changes. Our machine learning models, trained on current SOC observations, predict substantial SOC losses (~7 to 15 Pg) by 2100, with the majority occurring in peatlands. The application of a carbon balance framework further constrains these predictions, highlighting the critical role of peatlands—particularly in the Hudson Bay Lowlands and northwestern Canada—in driving regional carbon dynamics. Our findings underscore the vulnerability of peatland SOC to climate warming and the need for improved representation of carbon feedback mechanisms in global climate models. This study presents a multi-method framework for assessing SOC dynamics under climate change, offering key insights for refining carbon cycle models and informing climate policy. 
 
 # Main results    
 ![Fig.1 Base mapping of SOC in Canada](images/figure1.png "base map")
