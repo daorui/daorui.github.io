@@ -16,6 +16,7 @@ The Hudson Bay Lowlands (HBL) are recognized as the second largest peatland comp
 ![Fig.1 sampling sites](images/figure1.png "sampline sites")
 
 
+
 ![Fig. 2 (a) Predicted Peat Detph and (b) Estimated Peat C storage based on empirical relationship ](images/figure2.png "Peat Depth Mapping")
 
 # Story behind
