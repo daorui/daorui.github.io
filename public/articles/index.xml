@@ -1,16 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Featured publications on DAORUI HAN</title><link>https://daorui-han.netlify.app/articles/</link><description>Recent content in Featured publications on DAORUI HAN</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://daorui-han.netlify.app/articles/index.xml" rel="self" type="application/rss+xml"/><item><title>Canada Soil Organic Carbon (SOC) Change in Response to Climate Change</title><link>https://daorui-han.netlify.app/articles/nature_canada_cc_2025/</link><pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate><guid>https://daorui-han.netlify.app/articles/nature_canada_cc_2025/</guid><description>published in ‘in Preparation’, 2025.03 Abstract Canada’s soils, particularly its vast peatlands, play a critical role in the global carbon cycle due to their significant stores of soil organic carbon (SOC). However, the response of SOC stocks to future climate change remains uncertain, especially given the sensitivity of peatland carbon to rising temperatures. Here, we assess potential changes in SOC stocks across Canada under future climate scenarios by integrating CMIP6 climate projections, machine learning models, and a carbon balance framework.</description></item><item><title>Peat Depth and Carbon Storage of the Hudson Bay Lowlands, Canada</title><link>https://daorui-han.netlify.app/articles/grl_hbl_2025/</link><pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/articles/grl_hbl_2025/</guid><description>published in ‘geophysical research letters’, 2025.01 Abstract The Hudson Bay Lowlands (HBL) are recognized as the second largest peatland complex in the world. Due to variability in peat thickness across a large and heterogeneous landscape, the existing carbon (C) storage estimates for the HBL may contain large uncertainty. Here, we use geospatial variables that are associated with HBL peat formation, age, accumulation, and occurrence to understand the driving factors for peat depth variability and map peat depth and C storage at 30 m spatial resolution.</description></item><item><title>Tibetan C mapping and its driving factors</title><link>https://daorui-han.netlify.app/articles/erl_tp_2022/</link><pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate><guid>https://daorui-han.netlify.app/articles/erl_tp_2022/</guid><description>published in ‘environmental research letters’, 2022.03
-Abstract
-The Qinghai-Tibetan Plateau (TP) accumulated a large amount of organic carbon, while its size and response to environmental factors for the whole area remain uncertain. Here, we synthesized a dataset to date with the largest data volume and broadest geographic coverage over the TP, composing of 7196 observations from multiple field campaigns since the 1980s, and provided a comprehensive assessment of the size and spatial distribution of carbon pools for both plant and soils on the TP using machine learning algorithms.</description></item><item><title>SOC change on North China Plain from 1980s to 2010s</title><link>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</link><pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate><guid>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</guid><description>published in ‘Global Change Biology’, 2017.09 Abstract Agricultural soils are widely recognized to be capable of carbon sequestration that contributes to mitigating CO2 emissions. To better understand soil organic carbon (SOC) stock dynamics and its driving and controlling factors corresponding with a period of rapid agronomic evolution from the 1980s to the 2010s in the North China Plain (NCP), we collected data from two region-wide soil sampling campaigns (in the 1980s and 2010s) and conducted an analysis of the controlling factors using the random forest model.</description></item><item><title>C changes and controlling factors on North China Plain</title><link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link><pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate><guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid><description>published in ‘Plant and Soil’, 2016.05
-Abstract
-Aims
-Try to detect the spatiotemporal dynamics and the
-controlling factors of soil organic carbon (SOC) in the
-North China Plain (NCP) over the last 30 years:
-1980s-2010s.
-Methods
-We investigated the SOC evolution by com-
-piling data from 32 published papers during the last
-30 years. Then we examined the spatial pattern and
-controlling factors by analysing a two-period sampling
-observations (1980s and 2010s) and multiple explana-
-tory variables in four typical counties.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured publications on DAORUI HAN</title>
+    <link>https://daorui-han.netlify.app/articles/</link>
+    <description>Recent content in Featured publications on DAORUI HAN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://daorui-han.netlify.app/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canada Soil Organic Carbon (SOC) Change in Response to Climate Change</title>
+      <link>https://daorui-han.netlify.app/articles/nature_canada_cc_2025/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/articles/nature_canada_cc_2025/</guid>
+      <description>published in ‘in Preparation’, 2025.03  Abstract Canada’s soils, particularly its vast peatlands, play a critical role in the global carbon cycle due to their significant stores of soil organic carbon (SOC). However, the response of SOC stocks to future climate change remains uncertain, especially given the sensitivity of peatland carbon to rising temperatures. Here, we assess potential changes in SOC stocks across Canada under future climate scenarios by integrating CMIP6 climate projections, machine learning models, and a carbon balance framework.</description>
+    </item>
+    
+    <item>
+      <title>Peat Depth and Carbon Storage of the Hudson Bay Lowlands, Canada</title>
+      <link>https://daorui-han.netlify.app/articles/grl_hbl_2025/</link>
+      <pubDate>Wed, 01 Jan 2025 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/articles/grl_hbl_2025/</guid>
+      <description>published in ‘geophysical research letters’, 2025.01  Abstract The Hudson Bay Lowlands (HBL) are recognized as the second largest peatland complex in the world. Due to variability in peat thickness across a large and heterogeneous landscape, the existing carbon (C) storage estimates for the HBL may contain large uncertainty. Here, we use geospatial variables that are associated with HBL peat formation, age, accumulation, and occurrence to understand the driving factors for peat depth variability and map peat depth and C storage at 30 m spatial resolution.</description>
+    </item>
+    
+    <item>
+      <title>Tibetan C mapping and its driving factors</title>
+      <link>https://daorui-han.netlify.app/articles/erl_tp_2022/</link>
+      <pubDate>Tue, 15 Mar 2022 21:13:14 -0500</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/articles/erl_tp_2022/</guid>
+      <description>published in ‘environmental research letters’, 2022.03AbstractThe Qinghai-Tibetan Plateau (TP) accumulated a large amount of organic carbon, while its size and response to environmental factors for the whole area remain uncertain. Here, we synthesized a dataset to date with the largest data volume and broadest geographic coverage over the TP, composing of 7196 observations from multiple field campaigns since the 1980s, and provided a comprehensive assessment of the size and spatial distribution of carbon pools for both plant and soils on the TP using machine learning algorithms.</description>
+    </item>
+    
+    <item>
+      <title>SOC change on North China Plain from 1980s to 2010s</title>
+      <link>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</link>
+      <pubDate>Sat, 10 Feb 2018 10:12:18 -0600</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/articles/gcb_ncp_2018/</guid>
+      <description>published in ‘Global Change Biology’, 2017.09  Abstract Agricultural soils are widely recognized to be capable of carbon sequestration that contributes to mitigating CO2 emissions. To better understand soil organic carbon (SOC) stock dynamics and its driving and controlling factors corresponding with a period of rapid agronomic evolution from the 1980s to the 2010s in the North China Plain (NCP), we collected data from two region-wide soil sampling campaigns (in the 1980s and 2010s) and conducted an analysis of the controlling factors using the random forest model.</description>
+    </item>
+    
+    <item>
+      <title>C changes and controlling factors on North China Plain</title>
+      <link>https://daorui-han.netlify.app/articles/ps_ncp_2016/</link>
+      <pubDate>Wed, 13 Jul 2016 10:11:08 -0400</pubDate>
+      
+      <guid>https://daorui-han.netlify.app/articles/ps_ncp_2016/</guid>
+      <description>published in ‘Plant and Soil’, 2016.05AbstractAimsTry to detect the spatiotemporal dynamics and thecontrolling factors of soil organic carbon (SOC) in theNorth China Plain (NCP) over the last 30 years:1980s-2010s.
+MethodsWe investigated the SOC evolution by com-piling data from 32 published papers during the last30 years. Then we examined the spatial pattern andcontrolling factors by analysing a two-period samplingobservations (1980s and 2010s) and multiple explana-tory variables in four typical counties.</description>
+    </item>
+    
+  </channel>
+</rss>
