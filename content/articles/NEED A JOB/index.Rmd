@@ -1,7 +1,7 @@
 ---
 title: "I AM LOOKING FOR A JOB"
 author: "Daorui Han"
-date: 2025-02-14
+date: 2026-02-14
 categories: ["Article"]
 tags: ["Search job"]
 image: job.png
